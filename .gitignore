@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/Library
+/Temp
+/UnityPackageManager
+/UnityOutlineShader.csproj
+/UnityOutlineShader.sln
