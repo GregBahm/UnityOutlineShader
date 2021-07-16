@@ -8,3 +8,8 @@
 /UnityPackageManager
 /UnityOutlineShader.csproj
 /UnityOutlineShader.sln
+/Logs
+/obj/Debug
+/UserSettings
+*.vsconfig
+*.csproj
